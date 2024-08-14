@@ -10,16 +10,23 @@
 🔭 Security operations, focusing on ensuring the stability and security of systems.
 🌱 Learning network security to gain a deeper understanding of defensive and 
 response strategies in the field.
+
 👯 Looking to collaborate with professionals in network security to explore
 and discuss the latest trends and technologies.
+
 🤔 Seeking help with gaining more hands-on experience in network security, as
 I have practical experience in Linux and MySQL. I would appreciate guidance and 
 shared experiences to better combine theory with practice.
+
+
 💬 Ask me about Linux system operations, MySQL database management, and related 
 topics.
+
 📫 Reach me via email at [480603842@qq.com]. I look forward to connecting and 
 collaborating with you.
+
 😄 Pronouns: I use “Optimistic” as my pronoun.
+
 ⚡ Fun fact: Besides my technical interests, I’m passionate about traveling and 
 photography, enjoying the beauty of the world in my free time.
 ### 🚦 Stats
