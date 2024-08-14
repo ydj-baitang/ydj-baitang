@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🚦 Stats
+
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api?username=natee&show_icons=true&hide=commits"  alt=""/>
+</a>
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natee&layout=compact"  alt=""/>
+</a>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/natee/count.svg"  alt=""/>
+</p>
