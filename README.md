@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ydj-baitang/ydj-baitang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,20 +14,20 @@ Here are some ideas to get you started:
 -->
 # Hello World 👋
 
-[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323) [![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:haoruileee@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/ydj2200012810)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-### I'm Dahezhiquan
+### I'm 小白
 
-- 🔭 Bachelor of Computer Science in Chien-Shiung Wu College, Southeast University, China
-- 🌱 Currently working on "Using ML for meteorological early warning"
-- 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
-- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer)
-  、 [face recognize](https://github.com/haoruilee/Face_recognize) 、
-  or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
-- ⚡ Fun fact: Data Analysis📊
-
+🔭 Security operations, focusing on ensuring the stability and security of systems.
+🌱 Learning network security to gain a deeper understanding of defensive and response strategies in the field.
+👯 Looking to collaborate with professionals in network security to explore and discuss the latest trends and technologies.
+🤔 Seeking help with gaining more hands-on experience in network security, as I have practical experience in Linux and MySQL. I would appreciate guidance and shared experiences to better combine theory with practice.
+💬 Ask me about Linux system operations, MySQL database management, and related topics.
+📫 Reach me via email at [480603842@qq.com]. I look forward to connecting and collaborating with you.
+😄 Pronouns: I use “Optimistic” as my pronoun.
+⚡ Fun fact: Besides my technical interests, I’m passionate about traveling and photography, enjoying the beauty of the world in my free time.
 ### 🚦 Stats
 
 <a href="https://github.com/ydj-baitang/emailwebsite">
