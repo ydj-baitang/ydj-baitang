@@ -25,10 +25,6 @@ topics.
 📫 Reach me via email at [480603842@qq.com]. I look forward to connecting and 
 collaborating with you.
 
-😄 Pronouns: I use “Optimistic” as my pronoun.
-
-⚡ Fun fact: Besides my technical interests, I’m passionate about traveling and 
-photography, enjoying the beauty of the world in my free time.
 ### 🚦 Stats
 
 <a href="https://github.com/ydj-baitang/emailwebsite">
