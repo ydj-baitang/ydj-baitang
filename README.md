@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ### 🚦 Stats
 
 <a href="https://github.com/ydj-baitang/emailwebsite">
-  <img src="https://github-readme-stats.vercel.app/api?username=natee&show_icons=true&hide=commits"  alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ydj-baitang&show_icons=true&hide=commits"  alt=""/>
 </a>
 <a href="https://github.com/ydj-baitang/emailwebsite">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natee&layout=compact"  alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydj-baitang&layout=compact"  alt=""/>
 </a>
 
 <p align="center"> 
