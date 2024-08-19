@@ -8,6 +8,7 @@
 ### I'm 小白
 
 🔭 Security operations, focusing on ensuring the stability and security of systems.
+
 🌱 Learning network security to gain a deeper understanding of defensive and 
 response strategies in the field.
 
